@@ -12,7 +12,7 @@ google-tracking-id: "UA-XXXXXXXX-X"
 
 lang: "en"
 author: "FineCVR-1M"
-title: "{FineCVR-1M}"
+title: "FineCVR-1M"
 description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
 keywords: "smith, jones, personal, jekyll, theme"
 favicon: "/img/favicon.ico"
@@ -113,7 +113,7 @@ social:
 
 # Sections shown in the index page
 pages_list:
-  Abstract: "about"
+  Abstract: "abstract"
   Approach: "latest-post"
   Dateset: "timeline"
   BibTex: "contact"
