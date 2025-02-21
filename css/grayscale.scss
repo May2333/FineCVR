@@ -653,3 +653,29 @@ body {
     padding: 0 100px 20px 20px;
   }
 }
+
+.button-container {
+  display: flex;
+  gap: 20px;
+}
+
+.button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 20px;
+  background-color: #4a90e2;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.button i {
+  margin-right: 8px;
+}
+
+.button:hover {
+  background-color: #357ABD;
+}
