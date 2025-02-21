@@ -11,8 +11,8 @@ google-tracking-id: "UA-XXXXXXXX-X"
 #############
 
 lang: "en"
-author: "FineCVR-1M"
-title: "FineCVR-1M"
+author: "FineCVR"
+title: "FineCVR"
 description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
 keywords: "smith, jones, personal, jekyll, theme"
 favicon: "/img/favicon.ico"
@@ -115,8 +115,8 @@ social:
 pages_list:
   Abstract: "abstract"
   Approach: "approach"
-  Dateset: "timeline"
-  BibTex: "contact"
+  Dateset: "dataset"
+  BibTex: "bibtex"
 # Exclusion list from the generated _site
 exclude:
   - LICENSE
