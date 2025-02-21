@@ -114,7 +114,7 @@ social:
 # Sections shown in the index page
 pages_list:
   Abstract: "abstract"
-  Approach: "latest-post"
+  Approach: "approach"
   Dateset: "timeline"
   BibTex: "contact"
 # Exclusion list from the generated _site
