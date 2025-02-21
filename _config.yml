@@ -26,7 +26,7 @@ background-img: "intro-bg.jpg"
 # Dynamic Text on the Header #
 ##############################
 
-quote: "Learning Fine-Grained Representations through Textual Token Disentanglement in Composed Video Retrieval"
+quote: "Learning Fine-Grained Representations through <br >Textual Token Disentanglement in Composed Video Retrieval"
 me-img: "/img/jetpacktocat.png"
 
 # To use github profile pic uncomment the following line and replace 'user_name'
