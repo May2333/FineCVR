@@ -664,8 +664,8 @@ body {
   align-items: center;
   justify-content: center;
   padding: 10px 20px;
-  background-color: #357ABD;
-  color: #625772;
+  background-color: #5bc0de;
+  color: white;
   border: none;
   border-radius: 5px;
   cursor: pointer;
@@ -678,7 +678,7 @@ body {
 }
 
 .button:hover {
-  background-color: #5bc0de;
+  background-color: #357ABD;
 }
 
 .pre {
