@@ -13,14 +13,14 @@ google-tracking-id: "UA-XXXXXXXX-X"
 lang: "en"
 author: "FineCVR"
 title: "FineCVR"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
-keywords: "smith, jones, personal, jekyll, theme"
+description: "FineCVR."
+keywords: "sFine-grained retrieval, dataset, decomposition method"
 favicon: "/img/favicon.ico"
 ################
 # Header layout#
 ################
 black-favicon: "/img/black-lab-glass.ico"
-background-img: "intro-bg.jpg"
+background-img: ""
 
 ##############################
 # Dynamic Text on the Header #
@@ -91,23 +91,22 @@ pgp: False
 
 # if the author_blurb is not set, then this feature is skipped
 author_blurb:
-  "John Smith is an awesome person. He lives in Flatland, where he works on two-dimensional
-  engineering projects. In his spare time, John likes to eat cotton candy."
+  "23333"
 author_blurb_image: "/img/author.png"
 
 ##################
 # Social Buttons #
 ##################
 
-social:
-  - icon: "github"
-    url: "https://github.com/le4ker/personal-jekyll-theme"
-  - icon: "linkedin-in"
-    url: "https://www.linkedin.com"
-  - icon: "x-twitter"
-    url: "https://twitter.com/"
-  - icon: "rss"
-    url: "https://le4ker.github.io/personal-jekyll-theme/feed.xml"
+# social:
+#   - icon: "github"
+#     url: "https://github.com/le4ker/personal-jekyll-theme"
+#   - icon: "linkedin-in"
+#     url: "https://www.linkedin.com"
+#   - icon: "x-twitter"
+#     url: "https://twitter.com/"
+#   - icon: "rss"
+#     url: "https://le4ker.github.io/personal-jekyll-theme/feed.xml"
 
 # NB! Tread carefully if you want to change the variables below this point!
 
